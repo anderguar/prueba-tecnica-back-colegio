@@ -1,4 +1,4 @@
-# prueba-tecnica-back-colegio
+# Prueba Técnica Back Colegio
 Creación de los servicios REST para listar los profesores, estudiantes y asignaturas.
 
 # Herramientas utilizadas
